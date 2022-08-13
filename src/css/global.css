@@ -1,0 +1,13 @@
+*:before, *:after, * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  background-color: rgba(245, 245, 9, 0.689);
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
